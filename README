@@ -1,5 +1,8 @@
 [README]
-こちらはmikutterのプラグインです。
+こちらはmikutter 0.2用のプラグインです。
+
+mikutter 0.1の方はこちらから
+git clone git://gist.github.com/3932345.git
 
 [概要]
 各ツイートのviaがワンクリックでクリップボードに！
